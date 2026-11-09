@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ControlGastos.Backend", "src\ControlGastos.Backend\ControlGastos.Backend.csproj", "{5F0CDE70-20AF-4E95-A74B-8CC6944A8193}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ControlGastos.WinForms", "src\ControlGastos.WinForms\ControlGastos.WinForms.csproj", "{B4D3CF8A-79F6-47FB-A48A-0A1E4AE36109}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5F0CDE70-20AF-4E95-A74B-8CC6944A8193}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F0CDE70-20AF-4E95-A74B-8CC6944A8193}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F0CDE70-20AF-4E95-A74B-8CC6944A8193}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F0CDE70-20AF-4E95-A74B-8CC6944A8193}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B4D3CF8A-79F6-47FB-A48A-0A1E4AE36109}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4D3CF8A-79F6-47FB-A48A-0A1E4AE36109}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4D3CF8A-79F6-47FB-A48A-0A1E4AE36109}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4D3CF8A-79F6-47FB-A48A-0A1E4AE36109}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
